@@ -1,0 +1,114 @@
+body{
+	margin: 0px;
+	background-image: url("../images/background.jpg");
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+#bear{
+	width: 195px;
+	height: 195px;
+	margin-top: 40px;
+	margin-left: 40px;
+	position: fixed;
+}
+
+#fox{
+	width: 260px;
+	height: 195px;
+	margin-top: 135px;
+	margin-left: 275px;
+	position: fixed;
+}
+
+#koala{
+	width: 243.75px;
+	height: 195px;
+	margin-top: 225px;
+	margin-left: 575px;
+	position: fixed;
+}
+
+#wolf{
+	width: 203.11px;
+	height: 195px;
+	margin-top: 315px;
+	margin-left: 858.75px;
+	position: fixed;
+}
+
+#panda{
+	width: 195px;
+	height: 195px;
+	margin-top: 405px;
+	margin-left: 1101.86px;
+	position: fixed;
+}
+
+#otter{
+	width: 195px;
+	height: 195px;
+	margin-top: 495px;
+	margin-left: 1336.86px;
+	position: fixed;
+}
+
+#penguin{
+	width: 173.33px;
+	height: 195px;
+}
+
+#deer{
+	width: 143.7px;
+	height: 195px;
+}
+
+h1{
+	color: white;
+	font-size: 100px;
+	display: table-cell;
+    vertical-align: middle;
+	
+}
+
+#oAutoru{
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	height: 50%;
+	text-align: center;
+	background-color: hsla(248, 53%, 58%, 0.7);
+	display: table;
+}
+
+#uputstvo{
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	height: 50%;
+	text-align: center;
+	background-color: hsla(240, 100%, 50%, 0.7);
+	display: table;
+}
